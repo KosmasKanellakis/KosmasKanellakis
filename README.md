@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/kosmas-kanellakis-956443200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/KosmasKanellakis" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:kosmaskanellakis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Analytical and results-driven Management Science & Technology graduate with a focus on Software & Data Analysis. Combines technical proficiency in Python, SQL, and SAP FPSL with hands-on experience in financial compliance (IFRS 17) at EY and IT/logistics coordination for 200+ attendee conferences. Adept at bridging technical and business needs, whether optimizing data workflows, troubleshooting systems, or translating complex requirements into actionable solutions. Awarded a 50% merit-based scholarship at the American College of Greece for academic excellence. Passionate about leveraging technology, machine learning, and methodologies to drive efficiency in enterprise systems.</h3>**
+ **<h3 align="left">Business & Data Analyst | Python, SQL, Power BI | SAP ERP & Siebel CRM systems</h3>**
 
  **<h3 align="left">Skills</h3>**
 
@@ -21,11 +21,6 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KosmasKanellakis&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=KosmasKanellakis&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KosmasKanellakis&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kosmaskanellakis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kosmaskanellakis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
