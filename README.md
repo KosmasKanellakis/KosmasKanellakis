@@ -26,4 +26,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kosmaskanellakis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kosmaskanellakis&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=kosmaskanellakis&icon=0&color=#24292e)](https://visitcount.itsvg.in)
